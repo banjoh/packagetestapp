@@ -1,0 +1,15 @@
+{
+    "name": "evans/packagetestapp",
+    "autoload": {
+        "psr-4": {
+            "Evans\\Packagetestapp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Evans Mungai",
+            "email": "mbuevans@gmail.com"
+        }
+    ],
+    "require": {}
+}
